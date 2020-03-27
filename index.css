@@ -1,0 +1,48 @@
+.corner{
+		margin:5px;
+		height:100px;
+		width:145px;
+		background-color: red;
+		display: inline-block;
+	}
+	.corner2{
+		margin:5px;
+		height: 100px;
+		width:825px;
+		background-color: green;
+		display: inline-block;
+	}
+	.corner3{
+		margin: 5px;
+		height: 300px;
+		width:980px;
+		background-color: yellow;
+		display: inline-block;
+	}
+	.corner4{
+		margin:5px;
+		height: 150px;
+		width:400px;
+		background-color:orange;
+		display: inline-block;
+	}
+	.corner5{
+		margin:5px;
+		height: 150px;
+		width:300px;
+		background-color:violet;
+		display: inline-block;
+}
+.corner6{
+		margin:5px;
+		height: 150px;
+		width:250px;
+		background-color:pink;
+		display: inline-block;
+	}
+	.corner7{
+		margin:5px;
+		height: 80px;
+		width:980px;
+		background-color:lightgrey;
+		display: inline-block;}
